@@ -32,7 +32,7 @@ Currently pursuing **Data Science at Arizona State University**, I focus on comb
 
 ### 📫 Connect
 - [**LinkedIn**](https://linkedin.com/in/bashirulshikder)  
-- 📧 bashirul.shikder@asu.edu  
+- 📧 bashirul@shikder.com 
 - 🌍 Orlando, Florida  
 
 > _“def achieve_goals(objective, efforts): return ‘Success’ if objective and efforts else ‘Keep Trying’”_
