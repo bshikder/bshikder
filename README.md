@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/bshikder/bshikder/main/banner.jpeg)
+
 # 👋 Hi, I’m Bashirul Shikder
 **Data Science Enthusiast | DevOps Innovator | Big Data Explorer | AI & Automation Fanatic**
 
