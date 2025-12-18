@@ -20,7 +20,7 @@ Currently pursuing **Data Science at Arizona State University**, I focus on comb
 ### 🧩 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| [***Agentic AI Orchestrator (n8n)***] Agentic AI workflow with intent validation, tool routing, shared memory, and graceful fallback orchestration | n8n, OpenAI, Agentic AI, Workflow Automation
+| [***Agentic AI Orchestrator (n8n)***] (https://github.com/bshikder/agentic-ai-orchestrator-n8n)| Agentic AI workflow with intent validation, tool routing, shared memory, and graceful fallback orchestration | n8n, OpenAI, Agentic AI, Workflow Automation
 | [**WebAutomation1001_1**](https://github.com/bshikder/| End-to-end web automation framework | Java, Selenium |
 | [**cloudwell2023**](https://github.com/bshikder/cloudwell2023) | Cloud architecture & deployment automation | AWS, Python |
 | [**cicd-pipeline-train-schedule-jenkins**](https://github.com/bshikder/cicd-pipeline-train-schedule-jenkins) | CI/CD practice with Jenkins | JavaScript |
